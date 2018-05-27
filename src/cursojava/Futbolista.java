@@ -4,16 +4,11 @@
  * and open the template in the editor.
  */
 package cursojava;
-import java.util.Date;
 
 /**
  *
  * @author david
  */
-public class Persona {
-    protected int id;
-    String Nombre;
-    public String Apellidos;
-    private Date fechaNac;
+public class Futbolista extends Persona {
+    int dorsal;
 }
-// Una clase hijo podra hacer uso de los atributos de la clase padre Persona

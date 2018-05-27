@@ -4,16 +4,18 @@
  * and open the template in the editor.
  */
 package cursojava;
-import java.util.Date;
 
 /**
  *
  * @author david
  */
-public class Persona {
-    protected int id;
-    String Nombre;
-    public String Apellidos;
-    private Date fechaNac;
+public class CursoJava {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+
 }
-// Una clase hijo podra hacer uso de los atributos de la clase padre Persona
