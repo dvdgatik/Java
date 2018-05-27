@@ -19,3 +19,25 @@ public class CursoJava {
     }
 
 }
+
+/*Objetos
+Un objeto es una instania de una clase
+Una clase es la representacion de un concepto o entidad
+la cual presenta atributos o metodos 
+Atributo: caracteristicas de la entidad
+Metodo: Las acciones de esa entidad
+
+Para crear un objeto se utiliza la palabra reservada New
+Metodo main metodo principal donde comienza el codigo, es el
+punto de entrada de la aplicacion java
+
+
+Clae  object clase padre en la jerarqui de objetos
+presenta metodos importantes como equals, toString, hashCode (metodos para
+la comparacion de objetos) 
+
+HashContract
+
+
+
+*/
